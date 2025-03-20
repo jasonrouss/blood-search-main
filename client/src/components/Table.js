@@ -121,7 +121,7 @@ function Table() {
           download="table"
           target="_blank"
           rel="noreferrer"
-          href="https://cdn.discordapp.com/attachments/901150871927279636/952483509245710336/Screenshot_2022-03-13_102830.jpg"
+          href="https://raw.githubusercontent.com/jasonrouss/blood-search/refs/heads/main/bsguide.png"
         >
           {" "}
           Click to download image
