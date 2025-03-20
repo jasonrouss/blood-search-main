@@ -5,7 +5,7 @@ import { FiMail } from "react-icons/fi";
 const Footer = () => {
   return (
     <footer
-      className="footer relative   inset-x-0 bottom-0 mt-40 bg-zinc-900"
+      className="footer relative   inset-x-0 bottom-0 mt-40 bg-zinc-600"
     >
       {/* Icons */}
       <div className="flex mx-2 justify-center icons">
@@ -17,9 +17,7 @@ const Footer = () => {
           >
             <AiFillGithub />
           </a>
-          <a className="text-indigo-800" href="https://discord.gg/TRsp77VNZN">
-            <FaDiscord />
-          </a>
+         
           <a
             className="text-sky-700"
             href="https://www.linkedin.com/in/jason-rouss-7a8129190/"
