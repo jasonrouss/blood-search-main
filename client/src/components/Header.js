@@ -14,7 +14,7 @@ function Header() {
           >
             <img
               className="h-[150px]"
-              src="https://cdn.discordapp.com/attachments/901150871927279636/948325218378723438/BloodLogo.png"
+              src="https://raw.githubusercontent.com/jasonrouss/blood-search/refs/heads/main/bslogo.png"
               alt="Logo"
             />
           </button>
